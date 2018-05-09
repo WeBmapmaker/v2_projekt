@@ -1,0 +1,204 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.vmf
+Map revision 468
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Patching WVT material: maps/doi_v2_projekt/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/doi_v2_projekt/maps/terrain/blend_af_rock_sand_wvt_patch
+Patching WVT material: maps/doi_v2_projekt/maps/doi_v2_projekt/hr_concrete_dirty_tile_blend_snow_foy_wvt_patch
+Patching WVT material: maps/doi_v2_projekt/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_v2_projekt/concrete/hr_c/hr_concrete_floor_05_blend_cheap_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 422 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Warning: overflowed 7 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (530321 bytes)
+Error! To use model "models/characters/american/units/player_american_panther.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/units/player_american_panther.mdl"!
+Error loading studio model "models/binary/rakete/rakete_aggregat_10.mdl"!
+Error loading studio model "models/props_hydro/water_barrel_cluster.mdl"!
+Error loading studio model "models/props_hydro/barrel_crate.mdl"!
+Error loading studio model "models/props_hydro/barrel_crate_half.mdl"!
+Error! To use model "models/ukulele/props_v1_flying_bomb/v1_flying_bomb_ramp_destroyed_gib.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/ukulele/props_v1_flying_bomb/v1_flying_bomb_ramp_destroyed_gib.mdl"!
+Error loading studio model "models/pg_props/pg_gate_ii/pg_v2_roket.mdl"!
+Error! To use model "models/weapons/w_lugerp08.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/weapons/w_lugerp08.mdl"!
+Error loading studio model "models/props_hydro/small_substation1.mdl"!
+Error loading studio model "models/props_doomsday/rocket_lift_doomsday.mdl"!
+Error loading studio model "models/props_hydro/water_machinery4.mdl"!
+Error loading studio model "models/binary/props_docks/rail_sunk_90.mdl"!
+Error! To use model "models/characters/german/units/player_german_panzer_06.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/german/units/player_german_panzer_06.mdl"!
+Can't create hull for mesh 2/0 of model brest/docksv2/territrain.mdl
+Can't create hull for mesh 0/0 of model brest/docksv2/territrain.mdl
+Placing detail props : 0...1...2...3...4...5...6...7...8...Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+9.Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+..Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+Material MAPS/DOI_V2_PROJEKT/HR_CONCRETE_DIRTY_TILE_BLEND_SNOW_FOY uses unknown detail object type af_soil_dry!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4824 texinfos to 2666
+Reduced 126 texdatas to 91 (5193 bytes to 3956)
+Writing d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.bsp
+7 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.prt
+ 609 portalclusters
+1636 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1753 visible clusters (0.00%)
+Total clusters visible: 272682
+Average clusters visible: 447
+Building PAS...
+Average clusters audible: 606
+visdatasize:94830  compressed from 97440
+writing d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.bsp
+8319 faces
+4 degenerate faces
+9891760 square feet [1424413440.00 square inches]
+830 Displacements
+2773887 Square Feet [399439840.00 Square Inches]
+8315 patches before subdivision
+253369 patches after subdivision
+41 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16256916, max 947
+transfer lists: 124.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(450885, 454189, 396173)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(44532, 40133, 33471)
+Build Patch/Sample Hash Table(s).....Done<0.2362 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/1024         1104/49152    ( 2.2%) 
+brushes               1412/8192        16944/98304    (17.2%) 
+brushsides           10733/65536       85864/524288   (16.4%) 
+planes                6166/65536      123320/1310720  ( 9.4%) 
+vertexes             11948/65536      143376/786432   (18.2%) 
+nodes                 1700/65536       54400/2097152  ( 2.6%) 
+texinfos              2666/12288      191952/884736   (21.7%) 
+texdata                 91/2048         2912/65536    ( 4.4%) 
+dispinfos              830/0          146080/0        ( 0.0%) 
+disp_verts           67118/0         1342360/0        ( 0.0%) 
+disp_tris           106048/0          212096/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples     4976736/0         4976736/0        ( 0.0%) 
+faces                 8319/65536      465864/3670016  (12.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6196/65536      346976/3670016  ( 9.5%) 
+facebrushes            516/0            1032/0        ( 0.0%) 
+facebrushlists        8319/0           33276/0        ( 0.0%) 
+leaves                1724/65536       55168/2097152  ( 2.6%) 
+leaffaces             9164/65536       18328/131072   (14.0%) 
+leafbrushes           3215/65536        6430/131072   ( 4.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            64456/512000     257824/2048000  (12.6%) 
+edges                38354/256000     153416/1024000  (15.0%) 
+LDR worldlights         41/8192         4100/819200   ( 0.5%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            886/32768        8860/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16494/65536       32988/131072   (25.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]    33984596/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       94830/16777216 ( 0.6%) 
+entdata               [variable]       67561/393216   (17.2%) 
+LDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+HDR ambient table     1724/65536        6896/262144   ( 2.6%) 
+LDR leaf ambient      9208/65536      257824/1835008  (14.1%) 
+HDR leaf ambient      1724/65536       48272/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/148976   ( 0.0%) 
+pakfile               [variable]       18513/0        ( 0.0%) 
+physics               [variable]      530321/4194304  (12.6%) 
+physics terrain       [variable]      206252/1048576  (19.7%) 
+
+Level flags = 4
+
+Total triangle count: 22998
+Writing d:\sourceengine\dayofinfamy\mapsrc\doi_v2_projekt.bsp
+4 minutes, 55 seconds elapsed
